@@ -1,0 +1,23 @@
+{
+  "name": "reacttutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baffbarker/ReactTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baffbarker/ReactTutorial/issues"
+  },
+  "homepage": "https://github.com/baffbarker/ReactTutorial#readme",
+  "description": "",
+  "dependencies": {
+    "web-vitals": "^4.2.4"
+  }
+}
